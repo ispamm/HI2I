@@ -1,7 +1,9 @@
 # HI2I: Hypercomplex Image-to-Image Translation
-Official PyTorch repository for Hypercomplex Image-to-Image Transaltion, IJCNN 2022.
+Official PyTorch repository for Hypercomplex Image-to-Image Transaltion, IJCNN 2022, [ArXiv preprint](https://arxiv.org/pdf/2205.02087v1.pdf).
 
 Eleonora Grassucci, Luigi Sigillo, Aurelio Uncini, and Danilo Comminiello
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hypercomplex-image-to-image-translation/image-to-image-translation-on-celeba-hq)](https://paperswithcode.com/sota/image-to-image-translation-on-celeba-hq?p=hypercomplex-image-to-image-translation)
 
 ### Abstract :bookmark_tabs:
 
@@ -56,7 +58,7 @@ Please cite our work if you found it useful:
 
 Check also: 
 
-* Lightweight Convolutional Neural Network by Hypercomplex Parameterization, _Under Review_, 2021 [[Paper](https://arxiv.org/pdf/2110.04176.pdf)] [[GitHub](https://github.com/elegan23/hypernets)].
+* PHNNs: Lightweight neural networks via parameterized hypercomplex convolutions, _Under Review_, 2021 [[Paper](https://arxiv.org/pdf/2110.04176.pdf)] [[GitHub](https://github.com/elegan23/hypernets)].
 * Quaternion-Valued Variational Autoencoder, _ICASSP_, 2021 [[Paper](https://arxiv.org/pdf/2010.11647.pdf)] [[GitHub](https://github.com/eleGAN23/QVAE)].
 * An Information-Theoretic Perspective on Proper Quaternion Variational Autoencoders, _Entropy_, 2021 [[Paper](https://www.mdpi.com/1099-4300/23/7/856)] [[GitHub](https://github.com/eleGAN23/QVAE)].
 * Quaternion Generative Adversarial Networks, _Generative Adversarial Learning: Architectures and Applications, editors: Dr Roozbeh Razavi-Far, Dr Ariel Ruiz-Garcia, Professor Vasile Palade, Professor Jürgen Schmidhuber, Springer_, Jan 2022. [[Paper](https://arxiv.org/pdf/2104.09630.pdf)][[GitHub](https://github.com/eleGAN23/QGAN)].
