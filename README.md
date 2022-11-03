@@ -45,12 +45,13 @@ Experiments require approximately 80 hours on a single NVIDIA Tesla V100-32GB GP
 Please cite our work if you found it useful:
 
 ```
-@inproceedings{grassucci2022HI2I,
-      title={Hypercomplex Image-to-Image Translation}, 
+@INPROCEEDINGS{9892119,
       author={Grassucci, Eleonora and Sigillo, Luigi and Uncini, Aurelio and Comminiello, Danilo},
+      booktitle={2022 International Joint Conference on Neural Networks (IJCNN)},
+      title={Hypercomplex Image- to- Image Translation},
       year={2022},
-      month={July},
-      booktitle={IEEE International Joint Conference on Neural Networks (IJCNN)}
+      pages={1-8},
+      doi={10.1109/IJCNN55064.2022.9892119}
 }
 ```
 
