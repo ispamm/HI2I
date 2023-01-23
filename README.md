@@ -1,7 +1,7 @@
 # HI2I: Hypercomplex Image-to-Image Translation
 Official PyTorch repository for Hypercomplex Image-to-Image Transaltion, IJCNN 2022
 
-[IEEEXplore](https://ieeexplore.ieee.org/document/9892119)[ArXiv preprint](https://arxiv.org/pdf/2205.02087v1.pdf).
+[[IEEEXplore](https://ieeexplore.ieee.org/document/9892119)][[ArXiv preprint](https://arxiv.org/pdf/2205.02087v1.pdf)]
 
 Eleonora Grassucci, Luigi Sigillo, Aurelio Uncini, and Danilo Comminiello
 
